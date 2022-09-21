@@ -1,1 +1,3 @@
 image: ghcr.io/evgeny-goldin/demo-app:582bb7338c17c997855fc0510524fe1796862ffb
+
+env: stage
