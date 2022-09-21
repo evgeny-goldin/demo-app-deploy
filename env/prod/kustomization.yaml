@@ -3,3 +3,8 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/argocon2022-workshop/demo-app
+  newName: ghcr.io/evgeny-goldin/demo-app
+  newTag: 1bc4479fdd4d32d9f54bc5c734b2337306915716
