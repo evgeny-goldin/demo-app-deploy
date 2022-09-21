@@ -7,4 +7,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/evgeny-goldin/demo-app
-  newTag: 1bc4479fdd4d32d9f54bc5c734b2337306915716
+  newTag: ef8741211ede63510e68f4156afc20efa97970a4
